@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BahhzingaBackend">
+    <output-path>$PROJECT_DIR$/out/artifacts/BahhzingaBackend</output-path>
+    <root id="archive" name="BahhzingaBackend.jar">
+      <element id="module-output" name="BahhzingaBackend" />
+    </root>
+  </artifact>
+</component>
