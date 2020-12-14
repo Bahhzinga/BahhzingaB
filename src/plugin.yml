@@ -1,0 +1,22 @@
+name: BahhzingaBackend
+version: 0.0.2
+main: net.bahhzinga.org.Main
+api-version: 1.13
+description: The backend, and surprisingly, also the frontend.
+
+commands:
+ chatcolor:
+  permission: bahhzingabackend.chatcolor
+  description: Change your chat color
+ chatcolour:
+  permission: bahhzingabackend.chatcolor
+  description: Change your chat colour
+ perms:
+  permission: bahhzingabackend.permissions
+  description: Manage permissions of your players
+ permissions:
+  permission: bahhzingabackend.permissions
+  description: Manage permissions of your players
+ bc:
+  permission: bahhzingabackend.broadcast
+  description: Make announcements to your players
